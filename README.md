@@ -26,11 +26,18 @@ Tomaremos toda loa información aportada por los datos, resolveremos el problema
 ## SOLUCION DEL PROYECTO
 
 (Resumen) Para solucionar el proyecto entendimos las necesidades de las partes interesadas, y que tipo de enfoque requerían.
+
 La empresa disponía de una base de datos, los datos que nos interesaban para responder la pregunta eran generaros por las facturas.
+
 Utilizando el administrador de bases de datos PostgreSQL generamos un query con el cual extrajimos los datos de interés.
+
 Cargamos la tabla generada a Excel donde hicimos el proceso de limpieza y transformación, añadimos una columna adicional acorde a la solución.
-Cargamos la tabla de nuevo pero esta vez a la herramienta de PowerBI, nos aseguramos que los datos tengan el formato correcto, generamos nuevas columnas nuevamente enfocadas a una parte requerida de la solución, como buena práctica generamos una tabla calendario y tabla métricas, procedimos a crear visualizaciones para encontrar patrones y predicciones.
+
+Cargamos la tabla de nuevo pero esta vez a la herramienta de PowerBI, nos aseguramos que los datos tengan el formato correcto, generamos nuevas columnas nuevamente enfocadas a una parte requerida de la solución, como buena práctica generamos una tabla calendario y tabla métricas, procedimos a crear visualizaciones para encontrar 
+patrones y predicciones.
+
 Creamos un dashboard dinámico y lo comunicaremos con la parte interesada con técnicas efectivas y Storytelling.
+
 En base a toda la información dada por los datos aportamos recomendaciones de la información, en este caso, seguimiento a los clientes especialmente los días lunes, martes y especialmente los martes, sugerencia de otro análisis en la irregularidad de ventas de las carnes tipo 100 y 90 gramos, y sobre la regularidad de las carnes de 125 gramos, incentivar más la compra a nuestros dos clientes con menos compras 'Reyes Del Sabor' y 'Pizza Italiana' respectivamente. y finalmente por que los días miércoles son dios días de peores ventas y con una diferencia muy marcada.
   
 ## DASHBAORD DE LOS RESULTADOS
