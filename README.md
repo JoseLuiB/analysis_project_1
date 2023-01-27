@@ -42,7 +42,7 @@ En base a toda la información dada por los datos aportamos recomendaciones de l
   
 ## DASHBAORD DE LOS RESULTADOS
 
-![image](https://user-images.githubusercontent.com/123767857/215192211-222e6879-5b80-4731-8732-1ef900d93f21.png)
+![image](https://user-images.githubusercontent.com/123767857/215221576-854d7200-cabc-40e6-9145-87fe9a5d11de.png)
 
 
 ## CONTACTOS
