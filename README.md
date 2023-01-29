@@ -1,5 +1,8 @@
 # Comportamiento y reporte de ventas (15 de Enero - 31 de Enero).
 
+(DATOS: los datos fueron generados de manera aleatorio usando la página web ('mockaroo.com'), con distintos problemas de datos como lo son los valores nulos, errores ortográficos y errores de sintaxis al cárgalos a la base datos con el objetivo de hacer más didáctico el ejercicio).
+(EMPRESA: la empresa es completamente ficticia y el logo relacionado fue extraído de un generador de logos automático).
+
 ## Proyecto personal - Pregunta del gerente de ventas.
 Para este proyecto el gerente de ventas de la empresa ('Blue Cow') nos solicita un reporte sobre el comportamiento de las ventas entre el 15 de Enero al 31 de Enero del presente año.
 
